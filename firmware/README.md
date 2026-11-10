@@ -17,8 +17,12 @@ ES3N28P is the no-touch board. ES3C28P is the capacitive-touch variant using the
 
 This build is based on the XiaoZhi ESP32 project. The local source archive identifies the project under the MIT License and credits Shenzhen Xinzhi Future Technology Co., Ltd. and project contributors. The upstream license notice must be preserved with redistributed source or binaries where applicable.
 
+## Quick Start guide
+
+Download the [Dutch CyberWorks Black Deck Quick Start guide](../docs/Black%20deck%20qs.odt).
+
 ## Flashing
 
-Flashing instructions will be added after the exact Black Deck hardware and download procedure are verified against the LCDWiki documentation.
+Flashing instructions will be added after the exact Black Deck hardware and download procedure are verified against the Quick Start guide and LCDWiki documentation.
 
 This file documents the firmware artifact; it is not a claim that every bundled dependency or asset has identical licensing.
